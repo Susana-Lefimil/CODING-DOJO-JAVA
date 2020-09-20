@@ -1,0 +1,62 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+body{
+  	margin: auto;
+  	margin-top: 100px;
+  	width: 50%;
+  	border: 5px solid green;
+  	text-align: center;
+  	padding: 10px;
+}
+h1{
+	margin-top: 20px;
+}
+
+h2{
+	margin-top: 30px;
+}
+
+div{
+	margin-top: 30px;
+	margin: auto;
+	
+}
+
+
+.verde{
+	background-color: green;
+	width: 300px;
+	height: 300px;
+	text-align: center;
+
+}
+
+.rojo{
+	background-color: red;
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	
+}
+.hidden{
+	display: none;
+}
+
+.rojo p{
+	font-size: 40px;
+	padding-top: 90px;
+}
+.verde p{
+	font-size: 35px;
+	padding-top: 50px;
+}
+input{
+	height: 30px;
+	width: 100px;
+}
+form{
+	margin-top: 15px;
+}
